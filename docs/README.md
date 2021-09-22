@@ -1,8 +1,7 @@
 # Table of Contents
 
 Dictionary Components
-* Header
-* Block Table
+* [Dictionary Header](DictionaryHeader.md)
+* [Block Table + Blocks](BlockTable_Blocks.md)
 * Module Table
-* Blocks
 * Modules

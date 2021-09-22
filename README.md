@@ -1,4 +1,4 @@
-# Documentation is in the docs folder.
+# Documentation is in [the docs folder](docs).
 
 ## Disclosure
 All of the findings in this repository have been **fully** clean room reverse engineered using decompilation, official public documentation, and educated guesses. Neither myself nor my employer have any contacts at Microsoft that have provided source code. Any software that I have used or will use for this project is legally obtained and fully legitimate. Reverse engineering of computer software is legal in the United States according to Section 103(f) of the Digital Millenium Copyright Act.
