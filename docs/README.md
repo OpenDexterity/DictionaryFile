@@ -3,5 +3,4 @@
 Dictionary Components
 * [Dictionary Header](DictionaryHeader.md)
 * [Block Table + Blocks](BlockTable_Blocks.md)
-* Module Table
-* Modules
+* [Module Table + Modules](ModuleTable_Modules.md)
