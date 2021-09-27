@@ -31,7 +31,7 @@ Header size is 26 (0x1A) bytes. Signature is assumed to be ASCII characters. Off
 <tr><td>07</td></tr>
 
 <tr>
-<td>08</td> <td rowspan="4">Signature</td> <td rowspan="4">UInt32</td>
+<td>08</td> <td rowspan="4">OS File Size On Disk</td> <td rowspan="4">UInt32</td>
 </tr>
 <tr><td>09</td></tr>
 <tr><td>0A</td></tr>
